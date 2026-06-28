@@ -40,7 +40,7 @@ memajukan perusahaan dan mensejahterakan karyawannya, serta memberikan kontribus
 
 
 
-#Inventory PT OTICS INDONESIA
+# Inventory PT OTICS INDONESIA
 <img width="1892" height="872" alt="Screenshot 2026-06-28 160105" src="https://github.com/user-attachments/assets/5c9cb746-6819-4ec1-98e4-11b25137eb79" />
 
 
