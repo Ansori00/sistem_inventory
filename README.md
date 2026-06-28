@@ -31,12 +31,11 @@ memajukan perusahaan dan mensejahterakan karyawannya, serta memberikan kontribus
 
 
 # User
-<img width="347" height="357" alt="Screenshot 2026-06-28 161758" src="https://github.com/user-attachments/assets/d915b8bb-53e7-49bd-a0b2-234ac1c84d79" />
-
-
+<img width="347" height="356" alt="Screenshot 2026-06-28 162848" src="https://github.com/user-attachments/assets/94315cd6-f371-4990-bbff-33b1b5534bb2" />
 
 
 
 # Admin
-<img width="1893" height="870" alt="Screenshot 2026-06-28 161521" src="https://github.com/user-attachments/assets/bfd52e25-c268-441f-96f3-357bb4b173ee" />
+<img width="347" height="357" alt="Screenshot 2026-06-28 161758" src="https://github.com/user-attachments/assets/c92a146e-4700-4596-9e6b-141fb31a2326" />
+
 
